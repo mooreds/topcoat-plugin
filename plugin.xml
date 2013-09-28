@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        id="com.mooreds.cordova.plugins.topcoat"
+        version="0.0.1">
+    <name>Topcoat</name>
+    <description>A way to manage Topcoat CSS via a plugin</description>
+    <author>Dan Moore, plus all the Topcoat folks.  See 'www/contributors.txt'</author>
+    <keywords>topcoat,css,look and feel</keywords>
+    <license>Apache 2.0 License</license>
+    <asset src="www" target="www/topcoat" />
+
+</plugin>
