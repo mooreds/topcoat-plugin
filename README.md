@@ -13,5 +13,7 @@ and then add this line to your index.html file:
 
 and then use any of the topcoat classnames on your elements, as demoed here: http://topcoat.io/topcoat/topcoat-mobile-light.html
 
-Note that you won't see any of these classes if you work out of `www`.
+Note that you won't see any of these classes if you develop in the browser, so while doing that development, you should probably add to your html files.
+
+     <link rel="stylesheet" type="text/css" href="https://raw.github.com/mooreds/topcoat-plugin/tree/master/www/css/topcoat-mobile-light.min.css" />
 
