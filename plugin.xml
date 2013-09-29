@@ -8,8 +8,6 @@
     <author>Dan Moore, plus all the Topcoat folks.  See 'www/contributors.txt'</author>
     <keywords>topcoat,css,look and feel</keywords>
     <license>Apache 2.0 License</license>
-    <asset src="www/css" target="www/topcoat/css" />
-    <asset src="www/font" target="www/topcoat/font" />
-    <asset src="www/img" target="www/topcoat/img" />
+    <asset src="www" target="topcoat" />
 
 </plugin>
